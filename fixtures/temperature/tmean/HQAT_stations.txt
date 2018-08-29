@@ -1,0 +1,134 @@
+002012 -18.23 127.66 0422.0 HALLS CREEK AIRPORT                                                 
+003003 -17.95 122.23 0007.0 BROOME AIRPORT                                                      
+003032 -17.37 123.66 0006.2 DERBY AERO                                                          
+004020 -21.18 119.75 0182.3 MARBLE BAR COMPARISON                                               
+004032 -20.37 118.63 0006.4 PORT HEDLAND AIRPORT                                                
+004035 -20.78 117.15 0012.0 ROEBOURNE                                                           
+006011 -24.89 113.67 0004.0 CARNARVON AIRPORT                                                   
+007045 -26.61 118.54 0517.0 MEEKATHARRA AIRPORT                                                 
+007176 -23.42 119.80 0524.0 NEWMAN AERO                                                         
+008051 -28.80 114.70 0033.0 GERALDTON AIRPORT                                                   
+009021 -31.93 115.98 0015.4 PERTH AIRPORT                                                       
+009193 -32.01 115.50 0043.1 ROTTNEST ISLAND                                                     
+009510 -33.96 116.14 0149.9 BRIDGETOWN POST OFFICE                                              
+009518 -34.37 115.13 0013.0 CAPE LEEUWIN                                                        
+009519 -33.54 115.02 0109.0 CAPE NATURALISTE                                                    
+009741 -34.94 117.80 0068.0 ALBANY AIRPORT                                                      
+009789 -33.83 121.89 0025.0 ESPERANCE                                                           
+009842 -33.80 115.66 0130.0 JARRAHWOOD                                                          
+010073 -31.62 117.72 0250.0 KELLERBERRIN                                                        
+010092 -31.48 118.28 0315.0 MERREDIN                                                            
+010311 -31.90 116.77 0179.0 YORK                                                                
+010579 -33.69 117.56 0310.0 KATANNING COMPARISON                                                
+010917 -32.67 116.67 0275.0 WANDERING                                                           
+012038 -30.78 121.45 0365.3 KALGOORLIE-BOULDER AIRPORT                                          
+012074 -31.23 119.33 0355.0 SOUTHERN CROSS                                                      
+013017 -25.04 128.29 0598.0 GILES METEOROLOGICAL OFFICE                                         
+014015 -12.42 130.89 0030.4 DARWIN AIRPORT                                                      
+015135 -19.64 134.18 0375.7 TENNANT CREEK AIRPORT                                               
+015590 -23.80 133.89 0546.0 ALICE SPRINGS AIRPORT                                               
+016001 -31.16 136.80 0166.6 WOOMERA AERODROME                                                   
+016098 -30.71 134.58 0123.0 TARCOOLA AERO                                                       
+018012 -32.13 133.71 0015.3 CEDUNA AMO                                                          
+018192 -34.60 135.88 0008.5 PORT LINCOLN AWS                                                    
+019062 -33.03 138.75 0515.0 YONGALA                                                             
+021133 -33.77 138.22 0109.1 RAYVILLE PARK                                                       
+022801 -35.75 136.59 0143.0 CAPE BORDA                                                          
+023090 -34.92 138.62 0048.0 KENT TOWN                                                           
+024580 -35.29 138.89 0062.0 STRATHALBYN RACECOURSE                                              
+026005 -38.06 140.67 0005.0 CAPE NORTHUMBERLAND                                                 
+026021 -37.75 140.77 0063.0 MOUNT GAMBIER AERO                                                  
+026026 -37.16 139.76 0003.3 ROBE                                                                
+028004 -16.00 144.08 0203.8 PALMERVILLE                                                         
+029063 -17.69 141.07 0018.4 NORMANTON AIRPORT                                                   
+030018 -18.29 143.55 0291.7 GEORGETOWN POST OFFICE                                              
+030022 -20.82 144.23 0315.5 HUGHENDEN AIRPORT                                                   
+030045 -20.73 143.14 0211.1 RICHMOND POST OFFICE                                                
+031011 -16.87 145.75 0003.0 CAIRNS AERO                                                         
+031017 -15.45 145.19 0005.5 COOKTOWN MISSION STRIP                                              
+031193 -17.26 145.48 0752.0 ATHERTON SHIRE COUNCIL                                              
+032004 -18.26 146.02 0005.7 CARDWELL EDEN ST                                                    
+032025 -17.53 146.03 0008.0 INNISFAIL                                                           
+033002 -19.62 147.38 0012.0 AYR DPI RESEARCH STN                                                
+033119 -21.12 149.22 0030.2 MACKAY MO                                                           
+033257 -20.02 148.22 0005.0 BOWEN AIRPORT                                                       
+034084 -20.04 146.27 0290.0 CHARTERS TOWERS AIRPORT                                             
+036007 -23.55 145.29 0266.9 BARCALDINE POST OFFICE                                              
+036031 -23.44 144.28 0192.2 LONGREACH AERO                                                      
+037010 -19.92 138.12 0231.2 CAMOOWEAL TOWNSHIP                                                  
+038003 -22.91 139.90 0161.8 BOULIA AIRPORT                                                      
+039039 -25.63 151.61 0105.7 GAYNDAH POST OFFICE                                                 
+039083 -23.38 150.48 0010.0 ROCKHAMPTON AERO                                                    
+039085 -24.73 153.21 0099.1 SANDY CAPE LIGHTHOUSE                                               
+039123 -23.86 151.26 0074.5 GLADSTONE RADAR                                                     
+040004 -27.63 152.71 0027.0 AMBERLEY AMO                                                        
+040043 -27.03 153.47 0099.9 CAPE MORETON LIGHTHOUSE                                             
+040126 -25.52 152.71 0011.0 MARYBOROUGH                                                         
+040842 -27.39 153.13 0004.0 BRISBANE AERO                                                       
+041521 -28.52 150.33 0217.6 GOONDIWINDI AIRPORT                                                 
+041522 -27.17 151.27 0345.0 DALBY AIRPORT                                                       
+042112 -26.66 150.18 0304.8 MILES CONSTANCE STREET                                              
+043091 -26.55 148.78 0303.2 ROMA AIRPORT                                                        
+044010 -28.03 147.48 0182.9 BOLLON MARY ST                                                      
+044021 -26.41 146.26 0302.6 CHARLEVILLE AERO                                                    
+044026 -28.07 145.68 0188.7 CUNNAMULLA POST OFFICE                                              
+046037 -29.44 142.01 0183.0 TIBOOBURRA POST OFFICE                                              
+046043 -31.56 143.37 0075.0 WILCANNIA  (REID ST)                                                
+047007 -31.98 141.47 0315.0 BROKEN HILL (PATTON STREET)                                         
+048027 -31.49 145.83 0260.0 COBAR MO                                                            
+048245 -30.04 145.95 0107.3 BOURKE AIRPORT AWS                                                  
+052088 -30.04 148.12 0133.0 WALGETT AIRPORT AWS                                                 
+053115 -29.49 149.85 0213.0 MOREE AERO                                                          
+055023 -30.98 150.25 0306.0 GUNNEDAH POOL                                                       
+055325 -31.07 150.84 0394.9 TAMWORTH AIRPORT AWS                                                
+056032 -29.05 152.02 0838.0 TENTERFIELD (FEDERATION PARK)                                       
+056242 -29.78 151.11 0582.0 INVERELL (RAGLAN ST)                                                
+056243 -29.68 151.69 1044.3 GLEN INNES AIRPORT AWS                                              
+058012 -29.43 153.36 0029.0 YAMBA PILOT STATION                                                 
+058037 -28.81 153.26 0011.0 LISMORE (CENTRE STREET)                                             
+058130 -29.68 152.93 0009.0 GRAFTON OLYMPIC POOL                                                
+060026 -31.44 152.92 0007.0 PORT MACQUARIE (HILL ST)                                            
+061055 -32.92 151.80 0033.0 NEWCASTLE NOBBYS SIGNAL STATIO                                      
+061086 -32.50 150.91 0090.0 JERRYS PLAINS POST OFFICE                                           
+062101 -32.56 149.62 0471.0 MUDGEE AIRPORT AWS                                                  
+063005 -33.43 149.56 0713.0 BATHURST AGRICULTURAL STATION                                       
+063231 -33.38 149.12 0948.0 ORANGE AIRPORT COMPARISON                                           
+065070 -32.22 148.58 0284.0 DUBBO AIRPORT AWS                                                   
+065091 -33.85 148.65 0300.0 COWRA AIRPORT                                                       
+066062 -33.86 151.21 0039.0 SYDNEY (OBSERVATORY HILL)                                           
+067105 -33.60 150.78 0019.0 RICHMOND RAAF                                                       
+068034 -35.09 150.80 0085.0 POINT PERPENDICULAR LIGHTHOUSE                                      
+068102 -34.49 150.40 0690.0 BOWRAL (PARRY DRIVE)                                                
+069018 -35.91 150.15 0017.0 MORUYA HEADS PILOT STATION                                          
+072150 -35.16 147.46 0212.0 WAGGA WAGGA AMO                                                     
+074128 -35.55 144.95 0093.0 DENILIQUIN POST OFFICE                                              
+075031 -34.52 144.85 0093.3 HAY (MILLER STREET)                                                 
+076031 -34.23 142.08 0050.0 MILDURA AIRPORT                                                     
+077094 -35.38 143.54 0071.0 SWAN HILL AERODROME                                                 
+078031 -36.34 141.64 0133.0 NHILL                                                               
+080015 -36.17 144.76 0096.0 ECHUCA AERODROME                                                    
+080023 -35.73 143.92 0077.7 KERANG (POST OFFICE)                                                
+082002 -36.55 145.97 0169.5 BENALLA (SHADFORTH STREET)                                          
+082039 -36.11 146.51 0167.6 RUTHERGLEN RESEARCH                                                 
+082138 -36.42 146.31 0152.6 WANGARATTA AERO                                                     
+083025 -37.10 147.60 0685.0 OMEO                                                                
+084016 -37.57 149.91 0015.2 GABO ISLAND LIGHTHOUSE                                              
+085072 -38.11 147.13 0004.6 EAST SALE AIRPORT                                                   
+085096 -39.13 146.42 0088.7 WILSONS PROMONTORY LIGHTHOUSE                                       
+085279 -37.88 147.57 0049.4 BAIRNSDALE AIRPORT                                                  
+086071 -37.81 144.97 0031.2 MELBOURNE REGIONAL OFFICE                                           
+087031 -37.86 144.75 0016.0 LAVERTON RAAF                                                       
+087163 -38.23 144.33 0033.4 GEELONG AIRPORT                                                     
+088043 -37.06 143.73 0249.3 MARYBOROUGH                                                         
+089002 -37.51 143.79 0435.2 BALLARAT AERODROME                                                  
+089085 -37.28 142.98 0295.0 ARARAT PRISON                                                       
+090015 -38.86 143.51 0082.0 CAPE OTWAY LIGHTHOUSE                                               
+090171 -38.32 141.47 0080.9 CASHMORE AIRPORT                                                    
+090173 -37.65 142.06 0241.1 HAMILTON AIRPORT                                                    
+090186 -38.29 142.45 0070.8 WARRNAMBOOL AIRPORT NDB                                             
+091104 -41.54 147.20 0170.0 LAUNCESTON AIRPORT                                                  
+091293 -41.06 146.79 0003.0 LOW HEAD                                                            
+094029 -42.89 147.33 0050.5 HOBART (ELLERSLIE ROAD)                                             
+094198 -43.49 147.14 0059.7 CAPE BRUNY (CAPE BRUNY)                                             
+097072 -42.16 145.29 0020.0 STRAHAN AERODROME                                                   
+098017 -39.88 143.88 0036.2 KING ISLAND AIRPORT                                                 
