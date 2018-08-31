@@ -52,12 +52,35 @@ class Command(BaseCommand):
         station_list = [dict(t) for t in {tuple(d.items()) for d in station_list}]
         print('station_list', len(station_list))
 
+        # map the state to the station based on station number
+        state_file = "fixtures/BOM_weather_station_locations_20140728_export.xlsx"
+        result = []
+        #
+        # STATE_MAP = {
+        #     'VIC': 'Victory',
+        #     'WA': 'West Australia',
+        #     'QL': 'Queensland',
+        #     'SA': 'South Australia',
+        #     'TAS': 'Tasmania',
+        #     'ACT': 'Australian Capital Territory',
+        #     'NSW': 'New South Wales',
+        #     None: 'Unknown',
+        # }
+        # with open(evap_stations_file, 'r') as f:
+        #     next(f)
+        #     states = {}
+        #     state_contains = f.readlines()
+        #     for l in state_contains:
+        #         states['station_number'] = l['Site']
+        #         states['state_code'] = l['STA']
+
+
         tmean_csv_out = "fixtures/tmean.csv"
         tmax_csv_out = "fixtures/tmax.csv"
         tmin_csv_out = "fixtures/tmin.csv"
         cloud_csv_out = "fixtures/cloud.csv"
         evap_csv_out = "fixtures/evap.csv"
-        rainfall_csv_out = "fixtures/evap.csv"
+        rainfall_csv_out = "fixtures/rainfall.csv"
 
         self.create_weather_csv_per_attribute(
             attribute='tmean',
